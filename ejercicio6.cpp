@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <iostream>
+//programa para hallar los multiplos de 5 entre a y b
 main() {
 
     seguir = true;
