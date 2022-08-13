@@ -3,7 +3,7 @@
 //Introducción HPC
 #include <stdio.h>
 #include <iostream>
-
+//programa para hacer una serie matematica hasta cierto n
 main() {
 
     float a=0, b,x=4,y=3,i;
