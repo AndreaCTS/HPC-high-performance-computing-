@@ -3,6 +3,7 @@
 //Introducción HPC
 
 #include <iostream>
+//programa para conocer tu n
 main() {
 
     int dia,mes,año;
